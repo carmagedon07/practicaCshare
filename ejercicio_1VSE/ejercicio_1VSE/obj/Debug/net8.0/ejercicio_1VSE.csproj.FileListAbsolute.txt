@@ -1,0 +1,14 @@
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\bin\Debug\net8.0\ejercicio_1VSE.exe
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\bin\Debug\net8.0\ejercicio_1VSE.deps.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\bin\Debug\net8.0\ejercicio_1VSE.runtimeconfig.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\bin\Debug\net8.0\ejercicio_1VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\bin\Debug\net8.0\ejercicio_1VSE.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ejercicio_1VSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ejercicio_1VSE.AssemblyInfoInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ejercicio_1VSE.AssemblyInfo.cs
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ejercicio_1VSE.csproj.CoreCompileInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ejercicio_1VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\refint\ejercicio_1VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ejercicio_1VSE.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ejercicio_1VSE.genruntimeconfig.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_1VSE\ejercicio_1VSE\obj\Debug\net8.0\ref\ejercicio_1VSE.dll

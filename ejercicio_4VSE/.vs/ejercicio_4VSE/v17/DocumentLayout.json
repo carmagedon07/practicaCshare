@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcaro\\OneDrive\\Documentos\\c#\\ejercicio_4VSE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89627191-AC1B-4348-A339-675CC54E5D37}|ejercicio_4VSE\\ejercicio_4VSE.csproj|c:\\users\\pcaro\\onedrive\\documentos\\c#\\ejercicio_4vse\\ejercicio_4vse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89627191-AC1B-4348-A339-675CC54E5D37}|ejercicio_4VSE\\ejercicio_4VSE.csproj|solutionrelative:ejercicio_4vse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcaro\\OneDrive\\Documentos\\c#\\ejercicio_4VSE\\ejercicio_4VSE\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_4VSE\\Program.cs",
+              "ToolTip": "C:\\Users\\pcaro\\OneDrive\\Documentos\\c#\\ejercicio_4VSE\\ejercicio_4VSE\\Program.cs",
+              "RelativeToolTip": "ejercicio_4VSE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:43:56.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

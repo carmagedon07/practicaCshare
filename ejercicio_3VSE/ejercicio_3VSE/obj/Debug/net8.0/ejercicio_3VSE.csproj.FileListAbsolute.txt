@@ -1,0 +1,14 @@
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\bin\Debug\net8.0\ejercicio_3VSE.exe
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\bin\Debug\net8.0\ejercicio_3VSE.deps.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\bin\Debug\net8.0\ejercicio_3VSE.runtimeconfig.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\bin\Debug\net8.0\ejercicio_3VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\bin\Debug\net8.0\ejercicio_3VSE.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ejercicio_3VSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ejercicio_3VSE.AssemblyInfoInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ejercicio_3VSE.AssemblyInfo.cs
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ejercicio_3VSE.csproj.CoreCompileInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ejercicio_3VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\refint\ejercicio_3VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ejercicio_3VSE.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ejercicio_3VSE.genruntimeconfig.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_3VSE\ejercicio_3VSE\obj\Debug\net8.0\ref\ejercicio_3VSE.dll

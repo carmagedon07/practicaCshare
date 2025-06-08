@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcaro\\OneDrive\\Documentos\\c#\\ejemplo_2VSE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D2A5D5-65E8-48AF-A180-902DB2CF3274}|ejemplo_2VSE\\ejemplo_2VSE.csproj|c:\\users\\pcaro\\onedrive\\documentos\\c#\\ejemplo_2vse\\ejemplo_2vse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D2A5D5-65E8-48AF-A180-902DB2CF3274}|ejemplo_2VSE\\ejemplo_2VSE.csproj|solutionrelative:ejemplo_2vse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcaro\\OneDrive\\Documentos\\c#\\ejemplo_2VSE\\ejemplo_2VSE\\Program.cs",
+              "RelativeDocumentMoniker": "ejemplo_2VSE\\Program.cs",
+              "ToolTip": "C:\\Users\\pcaro\\OneDrive\\Documentos\\c#\\ejemplo_2VSE\\ejemplo_2VSE\\Program.cs",
+              "RelativeToolTip": "ejemplo_2VSE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:54:35.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

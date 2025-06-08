@@ -1,0 +1,14 @@
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\bin\Debug\net9.0\ejercicio_10.exe
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\bin\Debug\net9.0\ejercicio_10.deps.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\bin\Debug\net9.0\ejercicio_10.runtimeconfig.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\bin\Debug\net9.0\ejercicio_10.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\bin\Debug\net9.0\ejercicio_10.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ejercicio_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ejercicio_10.AssemblyInfoInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ejercicio_10.AssemblyInfo.cs
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ejercicio_10.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\refint\ejercicio_10.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ejercicio_10.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ejercicio_10.genruntimeconfig.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_10\obj\Debug\net9.0\ref\ejercicio_10.dll

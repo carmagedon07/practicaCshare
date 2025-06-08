@@ -1,0 +1,14 @@
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\bin\Debug\net9.0\console1vscode.exe
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\bin\Debug\net9.0\console1vscode.deps.json
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\bin\Debug\net9.0\console1vscode.runtimeconfig.json
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\bin\Debug\net9.0\console1vscode.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\bin\Debug\net9.0\console1vscode.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\console1vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\console1vscode.AssemblyInfoInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\console1vscode.AssemblyInfo.cs
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\console1vscode.csproj.CoreCompileInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\console1vscode.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\refint\console1vscode.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\console1vscode.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\console1vscode.genruntimeconfig.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\console1vscode\obj\Debug\net9.0\ref\console1vscode.dll

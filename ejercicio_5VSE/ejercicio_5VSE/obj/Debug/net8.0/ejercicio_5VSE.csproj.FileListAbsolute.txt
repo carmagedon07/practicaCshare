@@ -1,0 +1,14 @@
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\bin\Debug\net8.0\ejercicio_5VSE.exe
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\bin\Debug\net8.0\ejercicio_5VSE.deps.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\bin\Debug\net8.0\ejercicio_5VSE.runtimeconfig.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\bin\Debug\net8.0\ejercicio_5VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\bin\Debug\net8.0\ejercicio_5VSE.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ejercicio_5VSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ejercicio_5VSE.AssemblyInfoInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ejercicio_5VSE.AssemblyInfo.cs
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ejercicio_5VSE.csproj.CoreCompileInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ejercicio_5VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\refint\ejercicio_5VSE.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ejercicio_5VSE.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ejercicio_5VSE.genruntimeconfig.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5VSE\ejercicio_5VSE\obj\Debug\net8.0\ref\ejercicio_5VSE.dll

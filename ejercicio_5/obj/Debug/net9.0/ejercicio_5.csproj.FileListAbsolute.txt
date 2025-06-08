@@ -1,0 +1,14 @@
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\bin\Debug\net9.0\ejercicio_5.exe
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\bin\Debug\net9.0\ejercicio_5.deps.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\bin\Debug\net9.0\ejercicio_5.runtimeconfig.json
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\bin\Debug\net9.0\ejercicio_5.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\bin\Debug\net9.0\ejercicio_5.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ejercicio_5.AssemblyInfo.cs
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ejercicio_5.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\refint\ejercicio_5.dll
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ejercicio_5.pdb
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ejercicio_5.genruntimeconfig.cache
+C:\Users\pcaro\OneDrive\Documentos\c#\ejercicio_5\obj\Debug\net9.0\ref\ejercicio_5.dll
